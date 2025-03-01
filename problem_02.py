@@ -1,4 +1,4 @@
-# YOUR NAME
+# JUSTINE SEDA
 # ITELEC2
 # Problem Set 01 - Problem 02
 # Square the Number Program
